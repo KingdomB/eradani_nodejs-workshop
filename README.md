@@ -3,7 +3,7 @@
 To being this workshop, see the markdown (`.md`) files:
 
 * [1. Introduction](./tutorials/1.introduction.md)
-* [2. Setup](./tutorials/1.introduction.md)
+* [2. Setup](./tutorials/2.setup.md)
 * [3. JavaScript](./tutorials/3.javascript.md)
 * [4. Node.js](./tutorials/4.nodejs.md)
 * [5. Express.js](./tutorials/5.express.js.md)
